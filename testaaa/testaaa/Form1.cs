@@ -19,7 +19,7 @@ namespace testaaa
 
         private void button1_Click(object sender, EventArgs e)
         {
-            button1.Text = "qqq";
+            textBox1.Text = "aaaa";
         }
     }
 }
